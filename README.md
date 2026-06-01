@@ -152,7 +152,7 @@ DriveOps არის სასწავლო პროექტი, რომ�
 მოგეცემათ GitHub raw JSON URL მსგავსი ფორმატით:
 
 ```txt
-https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/cars.json
+https://raw.githubusercontent.com/Gkhundadze/car-rental-car-data/refs/heads/main/carData.json
 ````
 
 ---
